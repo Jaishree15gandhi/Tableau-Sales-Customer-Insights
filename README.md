@@ -8,18 +8,18 @@ This repository showcases an interactive Tableau dashboard that analyzes **sales
 ## 📁 Folder Structure
 
 ```
-tableau-sales-customer-insights/
-├── 01_dataset/
-│   ├── customer.csv
-│   ├── location.csv
-│   ├── order.csv
-│   └── products.csv
-├── 02_screenshots/
-│   ├── sales_overview.png
-│   ├── customer_lens.png
-│   └── filters.png
-├── 03_dashboard/
-│   └── Sales_Customer_Insights.twb
+├── tableau-sales-customer-insights/
+|  ├── 01_dataset/
+|  │   ├── customer.csv
+|  │   ├── location.csv
+|  │   ├── order.csv
+|  │   └── products.csv
+|  ├── 02_screenshots/
+|  │   ├── sales_overview.png
+|  │   ├── customer_lens.png
+|  │   └── filters.png
+|  ├── 03_dashboard/
+|  │   └── Sales_Customer_Insights.twb
 └── README.md
 ```
 
@@ -52,7 +52,7 @@ The dataset is divided into the following CSV files:
 ![Sales Overview](/Sales-Customer-dashboard/02_screenshots/01_sales_overview.png)
 
 ### 2. Customer Lens Dashboard
-![Customer Lens](/Sales-Customer-dashboard/02_screenshots/customer_lens.png)
+![Customer Lens](/Sales-Customer-dashboard/02_screenshots/03_customer_lens.png)
 
 ### 3. Filters Panel
 ![Filters](/Sales-Customer-dashboard/02_screenshots/02_filters.png)
