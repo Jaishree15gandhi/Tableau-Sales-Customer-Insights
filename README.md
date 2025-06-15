@@ -70,7 +70,7 @@ The dataset is divided into the following CSV files:
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/tableau-sales-customer-insights.git
+git clone https://github.com/Jaishree15gandhi/tableau-sales-customer-insights.git
 ```
 2. Open `Sales_Customer_Insights.twb` in Tableau Desktop
 3. Make sure to **map the data sources** to the CSVs inside `01_dataset/` folder
