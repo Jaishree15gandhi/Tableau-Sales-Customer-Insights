@@ -49,7 +49,7 @@ The dataset is divided into the following CSV files:
 ## 📷 Screenshots
 
 ### 1. Sales Insight Dashboard
-![Sales Overview](/Sales-Customer-dashboard/02_screenshots/sales_overview.png)
+![Sales Overview](/Sales-Customer-dashboard/02_screenshots/01_sales_overview.png)
 
 ### 2. Customer Lens Dashboard
 ![Customer Lens](/Sales-Customer-dashboard/02_screenshots/customer_lens.png)
